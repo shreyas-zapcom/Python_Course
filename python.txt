@@ -1,0 +1,99 @@
+                                        Python
+*****************************************************************************************************************************************
+1)Introduction
+
+2)First Python program-
+    Printing basic output
+
+3)Printing in Python - Basic output
+    Using the print() function to output text and other data to the screen.
+
+4)Strings in Python-
+    Understanding strings, which are sequences of characters enclosed in quotes, used to represent text.
+
+5)Using escape characters in strings-
+    Special characters like \n (new line) or \t (tab) used within strings to format text.
+
+6)Variables and data types-
+    Introduction to storing data in variables and learning different data types like integers, floats, strings, and booleans.
+
+7)Numeric data types explained-
+    Understanding the difference between integers, floats, and other number-related data types.
+
+8)Basic math operators-
+    Using operators like +, -, *, and / for arithmetic operations.
+
+9)Writing expressions in Python-
+    Combining variables and operators to create expressions that Python evaluates to a value.
+
+10)Order of operations-
+    Parentheses ( )
+    Exponentiation **
+    Unary plus and minus +x, -x
+    Multiplication, Division, Modulus, Floor division *, /, %, //
+    Addition and Subtraction +, -
+    Comparison operators ==, !=, >, <, >=, <=
+    Logical NOT not
+    Logical AND and
+    Logical OR or
+
+11)Negative indexing in strings-
+    Accessing characters from the end of the string using negative index values eg a[::-1]
+
+12)Slicing parts of strings-
+    Extracting a portion of a string using the slicing syntax string[start:end]
+
+13)Using steps in slices-
+    Adding a step value to a slice to skip characters eg s[0:5:2]
+
+14)String operators (like concatenation)-
+    Operators like + to concatenate (join) strings and * to repeat strings.
+
+15)Inserting values into strings-
+    Using placeholders like %s or {} to insert values dynamically into strings.
+
+16)Different ways to format strings-
+    Various methods like .format(), % formatting, or f-strings to format and insert values into strings.
+Modern f-strings formatting
+Old method of string formatting
+
+17)Using blocks and statements
+
+18)Writing basic if conditions-
+    An if condition lets you run code only when a certain condition is true. If the condition is true, the code inside the if block runs.
+
+19)elif for multiple conditions-
+    elif is used when you want to check multiple conditions after the if statement. If the first if condition is false, Python moves to the elif to check another condition.
+
+20)Using condition operators-
+    Learning comparison operators like ==, !=, >, <, etc., to compare values in conditional statements.
+
+21)Combining conditions with and, or-
+    Using logical operators like and and or to combine multiple conditions in an if statement.
+
+22)True and False expressions-
+    Understanding how Python evaluates conditions to True or False in logical expressions.
+    Truthy and falsy values
+
+23)Checking membership with in-
+    sing the in operator to check if a value exists within a sequence like a string or list
+
+24)Writing for loops-
+    Using for loops to iterate over sequences like lists or strings and perform repeated actions.
+
+25)Loops inside other loops-
+    Creating nested loops, where one loop runs inside another, for tasks like iterating through a grid or matrix.
+
+26)continue and break in loops-
+    Using continue to skip the rest of the current loop iteration or break to exit the loop entirely.
+
+27)Repeating tasks with while loop-
+    Using a while loop to repeat a block of code as long as a condition remains true.
+
+28)Breaking out of while loops-
+    Exiting a while loop before the condition becomes false using the break statement to prevent infinite loops.
+                                 
+                                    9/10/2024 to 16/10/2024
+
+**************************************************************************************************************************
+                                            
