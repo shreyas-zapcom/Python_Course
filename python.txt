@@ -1,5 +1,6 @@
-                                        Python
+                                                Python
 *****************************************************************************************************************************************
+                                        9/10/2024 to 16/10/2024
 1)Introduction
 
 2)First Python program-
@@ -93,7 +94,32 @@ Old method of string formatting
 28)Breaking out of while loops-
     Exiting a while loop before the condition becomes false using the break statement to prevent infinite loops.
                                  
-                                    9/10/2024 to 16/10/2024
+                                     9/10/2024 to 16/10/2024
 
 **************************************************************************************************************************
-                                            
+                                        17/10/2024
+1) Lists
+    list is a order collection of the data can be accessed by indexing
+
+2)Immutable-
+    Can not be changed after they are created.
+    Strings
+    Tuples
+    Frozensets
+    Bytes
+    Named Tuples
+    Integers
+    Floats
+    Booleans
+
+3)Mutable-
+    Can be changed after they are created.
+    Lists
+    Sets
+    Dictionaries 
+
+4)Binary search-
+    Finding an element in a sorted list
+    It is a way to quickly find an item in a sorted list by repeatedly cutting the search range in half until the item is found or eliminated.
+
+*********************************************************************************************************************************    
