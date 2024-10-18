@@ -1,5 +1,6 @@
                                                 Python
 *****************************************************************************************************************************************
+*************************************************************************************************************************************    
                                         9/10/2024 to 16/10/2024
 1)Introduction
 
@@ -95,7 +96,7 @@ Old method of string formatting
     Exiting a while loop before the condition becomes false using the break statement to prevent infinite loops.
                                  
                                      9/10/2024 to 16/10/2024
-
+**************************************************************************************************************************
 **************************************************************************************************************************
                                         17/10/2024
 1) Lists
@@ -121,6 +122,23 @@ Old method of string formatting
 4)Binary search-
     Finding an element in a sorted list
     It is a way to quickly find an item in a sorted list by repeatedly cutting the search range in half until the item is found or eliminated.
-
+*********************************************************************************************************************************    
 *********************************************************************************************************************************    
                                         18/10/2024
+1) Appending to a List-
+    Adding elements to the end of a list using the append() method.       
+2)Removing from a List-
+    Removing elements from a list using the remove() method.
+3)Inserting into a List-
+    Inserting elements into a list using the insert() method.
+
+4)Sorting a List-
+    Sorting a list using the sort() method.
+
+5)Sorted-
+    Sorting a list using the sorted() function.
+    sorted() returns a new sorted list, while sort() changes the original list.
+
+6)Reversing a List-
+    Reversing a list using the reverse() method.
+    Reversing a list using the reversed() function.
