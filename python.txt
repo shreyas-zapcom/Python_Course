@@ -123,3 +123,4 @@ Old method of string formatting
     It is a way to quickly find an item in a sorted list by repeatedly cutting the search range in half until the item is found or eliminated.
 
 *********************************************************************************************************************************    
+                                        18/10/2024
