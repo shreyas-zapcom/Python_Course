@@ -165,3 +165,7 @@ Old method of string formatting
 
 6)split method- 
     Splitting a string into a list using the split() method.
+
+7)Tuples-
+    Tuples are immutable lists.
+    
