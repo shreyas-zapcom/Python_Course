@@ -142,3 +142,26 @@ Old method of string formatting
 6)Reversing a List-
     Reversing a list using the reverse() method.
     Reversing a list using the reversed() function.
+
+*********************************************************************************************************************************    
+*********************************************************************************************************************************    
+                                        21/10/2024
+1) creating a list-
+    Creating a list using the list() function.
+    Creating a list using the [] operator.
+
+2)Accessing elements in a list-
+    Accessing elements in a list using the index number or using the list name [index].
+
+3)replacing elements in a list-
+    Replacing elements in a list using the index number or using the list name [index].
+    Replacing elements in a list using the list name [index] = new value.
+
+4)Deleting elements in a list-
+    Deleting elements in a list using the del keyword.
+
+5)join method-
+    Joining elements in a list using the join() method.
+
+6)split method- 
+    Splitting a string into a list using the split() method.
