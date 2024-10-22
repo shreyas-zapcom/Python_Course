@@ -168,4 +168,34 @@ Old method of string formatting
 
 7)Tuples-
     Tuples are immutable lists.
-    
+*********************************************************************************************************************************    
+*********************************************************************************************************************************    
+                                            22/10/2024  
+1)sets-
+    Sets are unordered collections of unique elements.
+    Creating a set using the set() function.
+
+2)Accessing elements in a set-  
+    Accessing elements in a set using the index number or using the set name [index].
+
+3)Adding elements to a set-
+    Adding elements to a set using the add() method.
+
+4)Removing elements from a set-
+    Removing elements from a set using the remove() method.
+
+5)Dictionaries-
+    Dictionaries are unordered collections of key-value pairs.
+
+6)Accessing elements in a dictionary-
+    Accessing elements in a dictionary using the key or using the dictionary name [key].
+
+7)I/O with Basic Files in Python-
+    Using the open() function to open a file and reading/writing to it.
+
+8)Chaining Comparison Operators in Python with Logical Operators-
+    Chaining comparison operators in Python with logical operators.
+
+*********************************************************************************************************************************    
+*********************************************************************************************************************************    
+                                                
