@@ -198,4 +198,34 @@ Old method of string formatting
 
 *********************************************************************************************************************************    
 *********************************************************************************************************************************    
-                                                
+                                                                24/10/2024
+1)Introduction to Functions-
+     Functions are reusable blocks of code that perform specific tasks. Call them by name to run their code.
+
+2)def Keywor-
+    Use def to create a function, give it a name, and define its inputs (if any).
+
+3)Basics of Function- 
+    A function has a name, optional inputs (parameters), and a body with code that runs when the function is called.
+
+4)Logic of Functions- 
+    Functions follow specific steps. They can have if statements, loops, and more to decide what to do based on inputs.
+
+5)Tuple Unpacking- 
+    When a function returns multiple values in a tuple, you can split them into variables in one step, like x, y = my_function().                                                
+
+********************************************************************************************************************************    
+*********************************************************************************************************************************        
+                                    25/10/2024
+
+1)Nested Statements and Scope-
+     When a function or code block is inside another function, it’s called "nested." Scope defines where variables are accessible. Variables created inside a function can only be used there, while those outside are accessible everywhere in the code.
+
+2)Interactions between Python Functions-
+    Functions can call each other, share data, or use each other’s results. This interaction helps break down complex tasks into smaller, manageable functions.                                  
+
+3)Tasks Completed-
+    Executed course assignments and tests   
+
+********************************************************************************************************************************    
+*********************************************************************************************************************************        
