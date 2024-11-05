@@ -229,3 +229,35 @@ Old method of string formatting
 
 ********************************************************************************************************************************    
 *********************************************************************************************************************************        
+
+
+1. Collections Module: 
+    Provides specialized data structures like `Counter` (counts items), `defaultdict` (auto-defaults missing values), and `namedtuple` (simple object-like tuples) for efficient data handling.
+
+2. OS Module: 
+    Offers tools to interact with the operating system. Lists files, reads/writes files, and handles directories, making it essential for file management in Python.
+
+3. Datetime Module: 
+    Manages dates and times. You can get current dates, manipulate time (add days or hours), and convert date strings into Python datetime objects.
+
+4. Math and Random Modules: 
+    `math` offers functions for mathematical operations like square roots and factorials. `random` enables random number generation, selections, and more.
+
+5. Python Debugger: 
+    `breakpoint()` lets you pause and inspect code during execution. It’s useful for checking variable values and understanding program flow interactively.
+
+6. Regular Expressions Part One: 
+    `re.search` finds specific patterns in text. Useful for locating strings or substrings by matching them to predefined patterns.
+
+7. Regular Expressions Part Two: 
+    `re.findall` finds all occurrences of a pattern in text, like specific words or sequences. It’s helpful for pattern-based text extraction.
+
+8. Regular Expressions Part Three: 
+    `re.compile` creates reusable pattern objects. Using `finditer` on these patterns finds all matches in text with detailed control over search behavior.
+
+9. Timing Your Python Code: 
+    `timeit` measures code execution time, helping you understand how fast code runs, useful for performance optimization.
+
+10. Python decorators:
+     modify the behavior of functions or methods without changing their code. 
+     They wrap functions, adding extra functionality like logging, access control, or timing, making code more reusable.    
