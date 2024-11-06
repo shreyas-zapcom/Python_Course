@@ -261,3 +261,53 @@ Old method of string formatting
 10. Python decorators:
      modify the behavior of functions or methods without changing their code. 
      They wrap functions, adding extra functionality like logging, access control, or timing, making code more reusable.    
+
+
+********************************************************************************************************************************    
+********************************************************************************************************************************* 
+
+1.Introduction to Web Scraping: 
+    Web scraping is a technique to extract data from websites by accessing their HTML code, allowing you to collect specific information automatically.
+
+2.Setting Up Web Scraping Libraries: 
+    To scrape data with Python, libraries like requests (for fetching HTML) and BeautifulSoup (for parsing HTML) are essential. Installing them sets up the basic tools.
+
+3.Python Web Scraping - Grabbing a Title: 
+    This involves extracting the page title from a website using BeautifulSoup in Python. The title often describes the main content of the page.
+
+4.Python Web Scraping - Grabbing a Class: 
+    Web elements are often identified by HTML class names. You can target these classes to extract specific data, like text or images, from a webpage.
+
+5.Python Web Scraping - Grabbing an Image: 
+    By identifying <img> tags in HTML, you can pull image links from websites, allowing you to download or display images in your program.
+
+6.Introduction to Images with Python: 
+    Using Python's Pillow library, you can open, view, and edit images, enabling basic image manipulations such as resizing and cropping.
+
+7.Working with Images with Python: 
+    Beyond viewing images, Python allows you to transform images by resizing, cropping, converting colors, and saving edited images in different formats.
+
+8.Working with CSV Files in Python: 
+    CSV files store data in a simple, table-like format. Python’s csv module can read and write CSV files, making it easy to work with structured data.
+
+9.Working with PDF Files in Python: 
+    Python libraries like PyPDF2 let you read text from PDF files or create new PDFs, which is helpful for automating document tasks.
+
+10.Sending Emails with Python: 
+    With the smtplib library, Python can send emails automatically, connecting to email servers like Gmail’s SMTP to deliver messages from code.
+
+********************************************************************************************************************************    
+********************************************************************************************************************************* 
+1. Advanced Numbers  
+   Learned about advanced number operations in Python, including complex numbers, rounding methods, and mathematical functions. This module helps you work with numbers more efficiently in coding.
+
+2. Advanced Strings
+   Explore advanced string techniques, like slicing, formatting, and manipulating text data. This topic helps improve your control over text, making it easier to handle in programming tasks.
+
+3. Advanced Sets
+   Understand the unique properties of sets in Python, including how to use set operations (union, intersection) and manage duplicate-free collections. Sets are useful for tasks requiring unique elements.
+
+4. Advanced Dictionaries
+   Dive into dictionary methods and operations, such as merging, updating, and managing key-value pairs efficiently. Dictionaries store related data and are great for organizing structured information.
+********************************************************************************************************************************    
+********************************************************************************************************************************* 
